@@ -1,0 +1,135 @@
+{
+  "title": "Class 10: Revision and Karnataka fun",
+  "questions": [
+    {
+      "text": "Which of these is NOT a vowel (ಸ್ವರ)?",
+      "options": [
+        "ಗ",
+        "ಎ",
+        "ಇ",
+        "ಅ"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ನೀರು start with?",
+      "options": [
+        "ಮ",
+        "ನ",
+        "ತ",
+        "ದ"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"mother\"?",
+      "options": [
+        "ಅಪ್ಪ",
+        "ಅಕ್ಕ",
+        "ಅಜ್ಜಿ",
+        "ಅಮ್ಮ"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"house\"?",
+      "options": [
+        "ಮರ",
+        "ಮನೆ",
+        "ಮೊಲ",
+        "ಮೀನು"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "What does ಮೊಲ mean?",
+      "options": [
+        "Cat",
+        "Mouse",
+        "Rabbit",
+        "Deer"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Kannada is written from left to right.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    },
+    {
+      "text": "What is the capital of Karnataka?",
+      "options": [
+        "Bengaluru",
+        "Mangaluru",
+        "Hubballi",
+        "Mysuru"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Kannada Rajyotsava is celebrated on...",
+      "options": [
+        "26 January",
+        "1 November",
+        "15 August",
+        "1 January"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which festival is called the festival of lights?",
+      "options": [
+        "Dasara",
+        "Holi",
+        "Diwali",
+        "Ugadi"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which festival is the Kannada New Year?",
+      "options": [
+        "Diwali",
+        "Ugadi",
+        "Pongal",
+        "Onam"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which famous waterfall is in Karnataka?",
+      "options": [
+        "Jog Falls",
+        "Angel Falls",
+        "Victoria Falls",
+        "Niagara Falls"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Which sweet is famous from Mysuru?",
+      "options": [
+        "Mysore Pak",
+        "Jalebi",
+        "Rasgulla",
+        "Gulab jamun"
+      ],
+      "correct": 0,
+      "time": 20
+    }
+  ]
+}

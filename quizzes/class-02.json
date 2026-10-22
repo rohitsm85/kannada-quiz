@@ -1,0 +1,135 @@
+{
+  "title": "Class 2: Vowels ಎ to ಔ and counting",
+  "questions": [
+    {
+      "text": "Which of these is a Kannada vowel (ಸ್ವರ)?",
+      "options": [
+        "ಎ",
+        "ನ",
+        "ಟ",
+        "ಲ"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Which letter comes after ಎ in the Kannada alphabet?",
+      "options": [
+        "ಓ",
+        "ಏ",
+        "ಐ",
+        "ಒ"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which letter comes after ಒ in the Kannada alphabet?",
+      "options": [
+        "ಔ",
+        "ಎ",
+        "ಐ",
+        "ಓ"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಎಲೆ start with?",
+      "options": [
+        "ಒ",
+        "ಐ",
+        "ಎ",
+        "ಏ"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಐದು start with?",
+      "options": [
+        "ಐ",
+        "ಒ",
+        "ಏ",
+        "ಎ"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಒಂಟೆ start with?",
+      "options": [
+        "ಒ",
+        "ಔ",
+        "ಓ",
+        "ಅ"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಓದು start with?",
+      "options": [
+        "ಔ",
+        "ಐ",
+        "ಓ",
+        "ಒ"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "What does ಎಲೆ mean?",
+      "options": [
+        "Flower",
+        "Tree",
+        "Fruit",
+        "Leaf"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "What does ಒಂಟೆ mean?",
+      "options": [
+        "Cow",
+        "Camel",
+        "Goat",
+        "Horse"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"seven\"?",
+      "options": [
+        "ಏಳು",
+        "ಆರು",
+        "ಒಂಬತ್ತು",
+        "ಎಂಟು"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "How many legs does a spider have?",
+      "options": [
+        "10",
+        "4",
+        "8",
+        "6"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "ಔ is a Kannada vowel.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    }
+  ]
+}

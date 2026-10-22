@@ -1,0 +1,135 @@
+{
+  "title": "Class 9: Days of the week and numbers",
+  "questions": [
+    {
+      "text": "What does ಸೋಮವಾರ mean?",
+      "options": [
+        "Tuesday",
+        "Friday",
+        "Sunday",
+        "Monday"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "What does ಭಾನುವಾರ mean?",
+      "options": [
+        "Sunday",
+        "Saturday",
+        "Monday",
+        "Friday"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"Saturday\"?",
+      "options": [
+        "ಶನಿವಾರ",
+        "ಶುಕ್ರವಾರ",
+        "ಗುರುವಾರ",
+        "ಬುಧವಾರ"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "What does ಮಂಗಳವಾರ mean?",
+      "options": [
+        "Wednesday",
+        "Friday",
+        "Tuesday",
+        "Thursday"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"Friday\"?",
+      "options": [
+        "ಬುಧವಾರ",
+        "ಶುಕ್ರವಾರ",
+        "ಸೋಮವಾರ",
+        "ಶನಿವಾರ"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "ವಾರ means week.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    },
+    {
+      "text": "How many days are in a week?",
+      "options": [
+        "7",
+        "10",
+        "5",
+        "6"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"ten\"?",
+      "options": [
+        "ಹತ್ತು",
+        "ಎಂಟು",
+        "ಏಳು",
+        "ಒಂಬತ್ತು"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "What does ಎಂಟು mean?",
+      "options": [
+        "Seven",
+        "Eight",
+        "Six",
+        "Nine"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "What does ಆರು mean?",
+      "options": [
+        "Four",
+        "Six",
+        "Five",
+        "Eight"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which day comes after Saturday (ಶನಿವಾರ)?",
+      "options": [
+        "ಭಾನುವಾರ",
+        "ಶುಕ್ರವಾರ",
+        "ಗುರುವಾರ",
+        "ಸೋಮವಾರ"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "How many months are in a year?",
+      "options": [
+        "12",
+        "365",
+        "7",
+        "10"
+      ],
+      "correct": 0,
+      "time": 20
+    }
+  ]
+}

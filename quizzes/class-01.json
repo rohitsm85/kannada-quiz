@@ -1,0 +1,135 @@
+{
+  "title": "Class 1: Vowels ಅ to ಊ",
+  "questions": [
+    {
+      "text": "Which of these is a Kannada vowel (ಸ್ವರ)?",
+      "options": [
+        "ಸ",
+        "ಅ",
+        "ಮ",
+        "ಕ"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which letter comes after ಅ in the Kannada alphabet?",
+      "options": [
+        "ಇ",
+        "ಉ",
+        "ಕ",
+        "ಆ"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಅಮ್ಮ start with?",
+      "options": [
+        "ಉ",
+        "ಅ",
+        "ಇ",
+        "ಆ"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಆನೆ start with?",
+      "options": [
+        "ಇ",
+        "ಆ",
+        "ಈ",
+        "ಅ"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಇಲಿ start with?",
+      "options": [
+        "ಇ",
+        "ಈ",
+        "ಊ",
+        "ಉ"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಉಪ್ಪು start with?",
+      "options": [
+        "ಅ",
+        "ಇ",
+        "ಊ",
+        "ಉ"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "What does ಊಟ mean?",
+      "options": [
+        "Tree",
+        "Water",
+        "Meal",
+        "Book"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "What does ಅಮ್ಮ mean?",
+      "options": [
+        "Mother",
+        "Sister",
+        "Brother",
+        "Father"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "What does ಇಲಿ mean?",
+      "options": [
+        "Mouse",
+        "Cat",
+        "Dog",
+        "Cow"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "ಅ is the first letter of the Kannada alphabet.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    },
+    {
+      "text": "Bees make...",
+      "options": [
+        "ಸಕ್ಕರೆ",
+        "ಉಪ್ಪು",
+        "ಹಾಲು",
+        "ಜೇನು"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "Which animal is called the king of the jungle?",
+      "options": [
+        "Lion",
+        "Elephant",
+        "Dog",
+        "Mouse"
+      ],
+      "correct": 0,
+      "time": 20
+    }
+  ]
+}

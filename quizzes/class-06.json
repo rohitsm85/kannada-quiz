@@ -1,0 +1,135 @@
+{
+  "title": "Class 6: Consonants ಯ to ಹ",
+  "questions": [
+    {
+      "text": "Which of these is a consonant (ವ್ಯಂಜನ)?",
+      "options": [
+        "ಇ",
+        "ಉ",
+        "ಅ",
+        "ಯ"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಸೂರ್ಯ start with?",
+      "options": [
+        "ಹ",
+        "ಷ",
+        "ಸ",
+        "ಶ"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಹಸು start with?",
+      "options": [
+        "ಶ",
+        "ಷ",
+        "ಹ",
+        "ಸ"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಶಾಲೆ start with?",
+      "options": [
+        "ಹ",
+        "ಶ",
+        "ಷ",
+        "ಸ"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ರೈಲು start with?",
+      "options": [
+        "ಲ",
+        "ವ",
+        "ರ",
+        "ಯ"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಲಾರಿ start with?",
+      "options": [
+        "ಳ",
+        "ವ",
+        "ಲ",
+        "ರ"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "What does ಶಾಲೆ mean?",
+      "options": [
+        "School",
+        "Shop",
+        "Hospital",
+        "House"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "What does ರೈಲು mean?",
+      "options": [
+        "Car",
+        "Bus",
+        "Train",
+        "Plane"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "What does ಸೂರ್ಯ mean?",
+      "options": [
+        "Sun",
+        "Star",
+        "Moon",
+        "Rain"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"cow\"?",
+      "options": [
+        "ಕುರಿ",
+        "ಕುದುರೆ",
+        "ನಾಯಿ",
+        "ಹಸು"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "The Kannada alphabet has 34 consonants (ವ್ಯಂಜನಗಳು).",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    },
+    {
+      "text": "Which animal gives us wool?",
+      "options": [
+        "ನಾಯಿ",
+        "ಹಸು",
+        "ಬೆಕ್ಕು",
+        "ಕುರಿ"
+      ],
+      "correct": 3,
+      "time": 20
+    }
+  ]
+}

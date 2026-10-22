@@ -1,0 +1,137 @@
+{
+  "title": "Class 8: Letters with vowel signs (ಕಾಗುಣಿತ)",
+  "questions": [
+    {
+      "text": "Which one is ಕ + ಆ ?",
+      "options": [
+        "ಕಾ",
+        "ಕು",
+        "ಕೆ",
+        "ಕಿ"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Which one is ಕ + ಇ ?",
+      "options": [
+        "ಕಿ",
+        "ಕೆ",
+        "ಕಾ",
+        "ಕು"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Which one is ಕ + ಉ ?",
+      "options": [
+        "ಕು",
+        "ಕಿ",
+        "ಕೂ",
+        "ಕೆ"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Which one is ಕ + ಎ ?",
+      "options": [
+        "ಕೆ",
+        "ಕೈ",
+        "ಕಾ",
+        "ಕೇ"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Which one is ಕ + ಒ ?",
+      "options": [
+        "ಕೌ",
+        "ಕೊ",
+        "ಕೋ",
+        "ಕು"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which one is ಗ + ಇ ?",
+      "options": [
+        "ಗೆ",
+        "ಗಾ",
+        "ಗಿ",
+        "ಗು"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which one is ಮ + ಆ ?",
+      "options": [
+        "ಮೆ",
+        "ಮಾ",
+        "ಮು",
+        "ಮಿ"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "What does ಮನೆ mean?",
+      "options": [
+        "Road",
+        "School",
+        "Shop",
+        "House"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "What does ಕಾಗೆ mean?",
+      "options": [
+        "Cow",
+        "Crow",
+        "Cat",
+        "Parrot"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "What does ಸೇಬು mean?",
+      "options": [
+        "Orange",
+        "Banana",
+        "Apple",
+        "Grapes"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"banana\"?",
+      "options": [
+        "ದ್ರಾಕ್ಷಿ",
+        "ಸೇಬು",
+        "ಮಾವು",
+        "ಬಾಳೆಹಣ್ಣು"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "Which fruit is called the king of fruits?",
+      "options": [
+        "ದ್ರಾಕ್ಷಿ",
+        "ಮಾವು",
+        "ಬಾಳೆಹಣ್ಣು",
+        "ಸೇಬು"
+      ],
+      "correct": 1,
+      "time": 20
+    }
+  ]
+}

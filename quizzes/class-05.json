@@ -1,0 +1,135 @@
+{
+  "title": "Class 5: Consonants ತ to ಮ",
+  "questions": [
+    {
+      "text": "Which letter does ತಟ್ಟೆ start with?",
+      "options": [
+        "ದ",
+        "ಧ",
+        "ಥ",
+        "ತ"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ದೀಪ start with?",
+      "options": [
+        "ನ",
+        "ಧ",
+        "ದ",
+        "ತ"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ನವಿಲು start with?",
+      "options": [
+        "ದ",
+        "ಮ",
+        "ನ",
+        "ತ"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which letter comes after ತ in the Kannada alphabet?",
+      "options": [
+        "ನ",
+        "ಧ",
+        "ದ",
+        "ಥ"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಪುಸ್ತಕ start with?",
+      "options": [
+        "ಪ",
+        "ಬ",
+        "ಫ",
+        "ಭ"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಬೆಕ್ಕು start with?",
+      "options": [
+        "ಮ",
+        "ಬ",
+        "ಪ",
+        "ಭ"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಮರ start with?",
+      "options": [
+        "ನ",
+        "ಭ",
+        "ಮ",
+        "ಬ"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "What does ತಟ್ಟೆ mean?",
+      "options": [
+        "Plate",
+        "Glass",
+        "Pot",
+        "Spoon"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "What does ದೀಪ mean?",
+      "options": [
+        "Lamp",
+        "Table",
+        "Door",
+        "Fan"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"peacock\"?",
+      "options": [
+        "ಗಿಳಿ",
+        "ಕಾಗೆ",
+        "ಹಕ್ಕಿ",
+        "ನವಿಲು"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "ಪುಸ್ತಕ means book.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    },
+    {
+      "text": "Cows give us...",
+      "options": [
+        "ನೀರು",
+        "ಎಣ್ಣೆ",
+        "ಜೇನು",
+        "ಹಾಲು"
+      ],
+      "correct": 3,
+      "time": 20
+    }
+  ]
+}

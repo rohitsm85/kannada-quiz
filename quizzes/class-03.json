@@ -1,0 +1,135 @@
+{
+  "title": "Class 3: Consonants ಕ to ಙ",
+  "questions": [
+    {
+      "text": "Which of these is a consonant (ವ್ಯಂಜನ)?",
+      "options": [
+        "ಅ",
+        "ಉ",
+        "ಕ",
+        "ಇ"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಕಮಲ start with?",
+      "options": [
+        "ಖ",
+        "ಕ",
+        "ಗ",
+        "ಘ"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಗಿಳಿ start with?",
+      "options": [
+        "ಕ",
+        "ಖ",
+        "ಗ",
+        "ಘ"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಘಂಟೆ start with?",
+      "options": [
+        "ಕ",
+        "ಘ",
+        "ಖ",
+        "ಗ"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which letter comes after ಕ in the Kannada alphabet?",
+      "options": [
+        "ಖ",
+        "ಗ",
+        "ಘ",
+        "ಚ"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Which letter comes after ಗ in the Kannada alphabet?",
+      "options": [
+        "ಖ",
+        "ಚ",
+        "ಙ",
+        "ಘ"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "What does ಕಮಲ mean?",
+      "options": [
+        "Moon",
+        "Mango",
+        "Rose",
+        "Lotus"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "What does ಗಿಳಿ mean?",
+      "options": [
+        "Crow",
+        "Parrot",
+        "Sparrow",
+        "Peacock"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"crow\"?",
+      "options": [
+        "ನವಿಲು",
+        "ಹಕ್ಕಿ",
+        "ಗಿಳಿ",
+        "ಕಾಗೆ"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "ಕ is the first consonant of the Kannada alphabet.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    },
+    {
+      "text": "Which bird can copy human words?",
+      "options": [
+        "Crow",
+        "Eagle",
+        "Owl",
+        "Parrot"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "Which is the national bird of India?",
+      "options": [
+        "Sparrow",
+        "Peacock",
+        "Crow",
+        "Parrot"
+      ],
+      "correct": 1,
+      "time": 20
+    }
+  ]
+}

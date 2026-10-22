@@ -1,0 +1,85 @@
+{
+  "title": "Starter set (from Gemini)",
+  "questions": [
+    {
+      "text": "Which of these is NOT a Kannada vowel (ಸ್ವರ)?",
+      "options": [
+        "ಉ",
+        "ಕ",
+        "ಇ",
+        "ಅ"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "How many letters are in the Kannada alphabet (ವರ್ಣಮಾಲೆ), as usually taught?",
+      "options": [
+        "34",
+        "26",
+        "64",
+        "49"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "Which of these is the Kannada word for \"water\"?",
+      "options": [
+        "ಮನೆ",
+        "ನೀರು",
+        "ಮರ",
+        "ಹಣ್ಣು"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which is the Kannada numeral for 5?",
+      "options": [
+        "೩",
+        "೫",
+        "೯",
+        "೧"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Kannada is mainly spoken in the Indian state of Karnataka.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    },
+    {
+      "text": "The Kannada vowels are called ವ್ಯಂಜನಗಳು (Vyanjanagalu).",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1,
+      "time": 10
+    },
+    {
+      "text": "'ನಮಸ್ಕಾರ' (Namaskara) is a common greeting in Kannada.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    },
+    {
+      "text": "Kannada is written from right to left, like Arabic.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1,
+      "time": 10
+    }
+  ]
+}

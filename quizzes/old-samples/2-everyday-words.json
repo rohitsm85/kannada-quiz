@@ -1,0 +1,131 @@
+{
+  "title": "Everyday words: animals, family, colours",
+  "questions": [
+    {
+      "text": "Which Kannada word means \"water\"?",
+      "options": [
+        "ನೀರು",
+        "ಮರ",
+        "ಮನೆ",
+        "ಹಣ್ಣು"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "What does ಹಸು mean?",
+      "options": [
+        "Horse",
+        "Cat",
+        "Cow",
+        "Dog"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"elephant\"?",
+      "options": [
+        "ಇಲಿ",
+        "ಕೋತಿ",
+        "ಆನೆ",
+        "ಹುಲಿ"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "ಬೆಕ್ಕು means cat.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    },
+    {
+      "text": "ಮೀನು means bird.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1,
+      "time": 10
+    },
+    {
+      "text": "Which Kannada word means \"mother\"?",
+      "options": [
+        "ಅಪ್ಪ",
+        "ಅಮ್ಮ",
+        "ಅಕ್ಕ",
+        "ಅಜ್ಜಿ"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "What does ಅಜ್ಜಿ mean?",
+      "options": [
+        "Grandfather",
+        "Aunt",
+        "Grandmother",
+        "Elder sister"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"younger brother\"?",
+      "options": [
+        "ತಂಗಿ",
+        "ತಮ್ಮ",
+        "ಅಕ್ಕ",
+        "ಅಣ್ಣ"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "What colour is ಕೆಂಪು?",
+      "options": [
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"green\"?",
+      "options": [
+        "ನೀಲಿ",
+        "ಬಿಳಿ",
+        "ಹಳದಿ",
+        "ಹಸಿರು"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "ಕಣ್ಣು means eye.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    },
+    {
+      "text": "Which Kannada word means \"hand\"?",
+      "options": [
+        "ಮೂಗು",
+        "ತಲೆ",
+        "ಕಾಲು",
+        "ಕೈ"
+      ],
+      "correct": 3,
+      "time": 20
+    }
+  ]
+}

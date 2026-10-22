@@ -1,0 +1,129 @@
+{
+  "title": "Beginners: letters and numbers",
+  "questions": [
+    {
+      "text": "Which of these is NOT a Kannada vowel (ಸ್ವರ)?",
+      "options": [
+        "ಕ",
+        "ಅ",
+        "ಇ",
+        "ಉ"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Kannada vowels are called...",
+      "options": [
+        "ಸ್ವರಗಳು",
+        "ಯೋಗವಾಹಗಳು",
+        "ವ್ಯಂಜನಗಳು",
+        "ಸಂಖ್ಯೆಗಳು"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "ಕ is a consonant (ವ್ಯಂಜನ).",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    },
+    {
+      "text": "Which is the Kannada numeral for 2?",
+      "options": [
+        "೮",
+        "೨",
+        "೪",
+        "೭"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which is the Kannada numeral for 7?",
+      "options": [
+        "೫",
+        "೮",
+        "೬",
+        "೭"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "What does ಒಂದು mean?",
+      "options": [
+        "Four",
+        "Three",
+        "One",
+        "Two"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"five\"?",
+      "options": [
+        "ಐದು",
+        "ಆರು",
+        "ಮೂರು",
+        "ನಾಲ್ಕು"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "What does ಮೂರು mean?",
+      "options": [
+        "Three",
+        "Two",
+        "One",
+        "Ten"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "ಹತ್ತು means ten.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    },
+    {
+      "text": "ಎರಡು means four.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1,
+      "time": 10
+    },
+    {
+      "text": "How many letters are in the Kannada alphabet (ವರ್ಣಮಾಲೆ), as usually taught?",
+      "options": [
+        "26",
+        "64",
+        "49",
+        "34"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Kannada is written from left to right.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "title": "Class 7: Family, body and colours",
+  "questions": [
+    {
+      "text": "Which Kannada word means \"father\"?",
+      "options": [
+        "ಅಮ್ಮ",
+        "ಅಪ್ಪ",
+        "ಅಕ್ಕ",
+        "ಅಣ್ಣ"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "What does ಅಕ್ಕ mean?",
+      "options": [
+        "Younger sister",
+        "Mother",
+        "Aunt",
+        "Elder sister"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"younger sister\"?",
+      "options": [
+        "ಅಜ್ಜಿ",
+        "ಅಮ್ಮ",
+        "ಅಕ್ಕ",
+        "ತಂಗಿ"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "What does ಅಜ್ಜ mean?",
+      "options": [
+        "Grandmother",
+        "Grandfather",
+        "Father",
+        "Uncle"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"eye\"?",
+      "options": [
+        "ಕಿವಿ",
+        "ಬಾಯಿ",
+        "ಮೂಗು",
+        "ಕಣ್ಣು"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "What does ಕಿವಿ mean?",
+      "options": [
+        "Mouth",
+        "Eye",
+        "Ear",
+        "Nose"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"nose\"?",
+      "options": [
+        "ಕೈ",
+        "ಕಾಲು",
+        "ಬಾಯಿ",
+        "ಮೂಗು"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "What colour is ಹಳದಿ?",
+      "options": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "White"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"blue\"?",
+      "options": [
+        "ನೀಲಿ",
+        "ಕಪ್ಪು",
+        "ಹಸಿರು",
+        "ಕೆಂಪು"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "What colour is ಕಪ್ಪು?",
+      "options": [
+        "Pink",
+        "Black",
+        "White",
+        "Green"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "ಬಿಳಿ means white.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    },
+    {
+      "text": "Mixing blue and yellow makes which colour?",
+      "options": [
+        "ಕಪ್ಪು",
+        "ಬಿಳಿ",
+        "ಹಸಿರು",
+        "ಕೆಂಪು"
+      ],
+      "correct": 2,
+      "time": 20
+    }
+  ]
+}

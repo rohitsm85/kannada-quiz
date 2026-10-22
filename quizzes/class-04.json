@@ -1,0 +1,137 @@
+{
+  "title": "Class 4: Consonants ಚ to ಡ",
+  "questions": [
+    {
+      "text": "Which letter does ಚಂದ್ರ start with?",
+      "options": [
+        "ಛ",
+        "ಚ",
+        "ಟ",
+        "ಜ"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಜೇನು start with?",
+      "options": [
+        "ಟ",
+        "ಚ",
+        "ಜ",
+        "ಝ"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಛತ್ರಿ start with?",
+      "options": [
+        "ಚ",
+        "ಝ",
+        "ಛ",
+        "ಜ"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which letter comes after ಚ in the Kannada alphabet?",
+      "options": [
+        "ಜ",
+        "ಟ",
+        "ಝ",
+        "ಛ"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಟೋಪಿ start with?",
+      "options": [
+        "ಡ",
+        "ಟ",
+        "ಠ",
+        "ತ"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which letter does ಡಬ್ಬಿ start with?",
+      "options": [
+        "ಡ",
+        "ಟ",
+        "ದ",
+        "ಢ"
+      ],
+      "correct": 0,
+      "time": 20
+    },
+    {
+      "text": "What does ಚಂದ್ರ mean?",
+      "options": [
+        "Sun",
+        "Moon",
+        "Star",
+        "Cloud"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "What does ಛತ್ರಿ mean?",
+      "options": [
+        "Shoe",
+        "Umbrella",
+        "Bag",
+        "Cap"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "What does ಟೋಪಿ mean?",
+      "options": [
+        "Shoe",
+        "Shirt",
+        "Bag",
+        "Cap"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "Which Kannada word means \"deer\"?",
+      "options": [
+        "ಮೊಲ",
+        "ಕುರಿ",
+        "ಹುಲಿ",
+        "ಜಿಂಕೆ"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "Which is the biggest animal on land?",
+      "options": [
+        "Horse",
+        "Elephant",
+        "Cow",
+        "Lion"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Which is the closest star to Earth?",
+      "options": [
+        "The Sun",
+        "Venus",
+        "The Moon",
+        "Mars"
+      ],
+      "correct": 0,
+      "time": 20
+    }
+  ]
+}

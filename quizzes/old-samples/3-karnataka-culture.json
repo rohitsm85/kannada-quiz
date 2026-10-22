@@ -1,0 +1,125 @@
+{
+  "title": "Karnataka and culture",
+  "questions": [
+    {
+      "text": "What is the capital of Karnataka?",
+      "options": [
+        "Hubballi",
+        "Mangaluru",
+        "Mysuru",
+        "Bengaluru"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "Kannada Rajyotsava is celebrated on which day?",
+      "options": [
+        "1 January",
+        "15 August",
+        "26 January",
+        "1 November"
+      ],
+      "correct": 3,
+      "time": 20
+    },
+    {
+      "text": "Which festival is the Kannada New Year?",
+      "options": [
+        "Onam",
+        "Ugadi",
+        "Pongal",
+        "Diwali"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Mysuru is famous for which festival with a grand procession?",
+      "options": [
+        "Holi",
+        "Dasara",
+        "Baisakhi",
+        "Christmas"
+      ],
+      "correct": 1,
+      "time": 20
+    },
+    {
+      "text": "Jog Falls is a famous waterfall in Karnataka.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    },
+    {
+      "text": "Hampi was the capital of the Vijayanagara Empire.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    },
+    {
+      "text": "Yakshagana is a traditional folk theatre art of Karnataka.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    },
+    {
+      "text": "Kuvempu is a famous Kannada...",
+      "options": [
+        "Painter",
+        "Cricketer",
+        "Poet",
+        "Singer"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Which animal is the state animal of Karnataka?",
+      "options": [
+        "Tiger",
+        "Lion",
+        "Elephant",
+        "Cow"
+      ],
+      "correct": 2,
+      "time": 20
+    },
+    {
+      "text": "Bisi Bele Bath is a famous dish of Karnataka.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    },
+    {
+      "text": "The river Kaveri flows through Karnataka.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    },
+    {
+      "text": "Kannada is one of the classical languages of India.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "time": 10
+    }
+  ]
+}
