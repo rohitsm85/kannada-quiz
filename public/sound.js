@@ -3,9 +3,8 @@ const Sound = (() => {
   let ctx, loop, muted = localStorage.getItem('kq.mute') === '1';
   const SONGS = {
     // [bpm, notes as semitones above C4, null = rest]. Pentatonic, so it never sounds wrong.
-    lobby: { bpm: 112, wave: 'triangle', seq: [0, 4, 7, 9, 7, 4, 9, 7, 0, 4, 7, 12, 9, 7, 4, null] },
-    question: { bpm: 150, wave: 'square', seq: [0, null, 7, 0, 9, null, 7, 4, 0, null, 7, 0, 12, 9, 7, null] },
-    podium: { bpm: 132, wave: 'sawtooth', seq: [0, 4, 7, 12, 7, 12, 16, 12, 9, 12, 14, 12, 16, 19, 16, null] },
+    lobby: { bpm: 92, wave: 'sine', seq: [0, 4, 7, 9, 7, 4, 9, 7, 0, 4, 7, 12, 9, 7, 4, null] },
+    podium: { bpm: 124, wave: 'triangle', seq: [0, 4, 7, 12, 7, 12, 16, 12, 9, 12, 14, 12, 16, 19, 16, null] },
   };
   const freq = (s) => 261.63 * 2 ** (s / 12);
   const tone = (f, t, len, wave, vol) => {
@@ -26,15 +25,15 @@ const Sound = (() => {
   function music(name) {
     current = name;
     stop();
-    if (!name || !ready()) return;
+    if (!name || !SONGS[name] || !ready()) return;
     const s = SONGS[name], step = 60 / s.bpm / 2;
     let i = 0, next = ctx.currentTime + 0.05;
     // Schedule a little ahead of the clock so timing stays steady even when the tab is busy.
     loop = setInterval(() => {
       while (next < ctx.currentTime + 0.3) {
         const n = s.seq[i++ % s.seq.length];
-        if (n !== null) tone(freq(n), next, step * 0.9, s.wave, 0.05);
-        if (i % 8 === 1) tone(freq(-12), next, step * 3, 'sine', 0.08); // bass on every 8th step
+        if (n !== null) tone(freq(n), next, step * 0.9, s.wave, 0.025);
+        if (i % 8 === 1) tone(freq(-12), next, step * 3, 'sine', 0.04); // bass on every 8th step
         next += step;
       }
     }, 100);
